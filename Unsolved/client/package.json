@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "client pj",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianapulatova/Your-News.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dianapulatova/Your-News/issues"
+  },
+  "homepage": "https://github.com/dianapulatova/Your-News#readme"
+}
